@@ -5,4 +5,6 @@
 Username: daw  
 Password: feb2025  
 Database: inventario  
+Root Password: root  
+
 
